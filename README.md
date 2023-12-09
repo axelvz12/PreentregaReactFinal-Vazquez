@@ -1,19 +1,5 @@
 # Ecommerce con React.js
 
-- Curso: ReactJS (2023)
-- Comisión: 39655
-- Profesor: Francisco Pugh
-- Alumno: Matias Baldanza
-- Fecha: 2023-05-16
-
-## Deploy
-
-Repo: https://github.com/matiasbaldanza/ecommerce-reactjs
-
-![Gif mostrando la navegación](README/matiasbaldanza-ecommerce-reactjs-demo-nav.gif)
-
-[Deploy en Vercel](https://ecommerce-reactjs-hazel.vercel.app)
-
 <hr />
 
 ## Creado con
